@@ -1,0 +1,7 @@
+#Kesinlikle Dosya adı ile class Adı aynı olmak zorundadır.
+#Kodlar public static void main başlar çalışmaya.
+
+
+#switch if-elseif  daha hızlıdır
+
+https://mathbits.com/MathBits/Java/DataBasics/Namingrules.htm

@@ -13,6 +13,6 @@
 
 
 
-//String  methods 
-//int methods 
-//
+- String  methods 
+- int methods 
+- array methods

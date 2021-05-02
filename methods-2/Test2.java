@@ -1,7 +1,10 @@
 public class Test2 {
 
     public static void testCallByValue(int number){
-
+        int number1 = 5;
+        Integer number2 = new Integer(5);
+        number2.toString();
+        //number.
     }
     
     public static void main(Strings [] a){

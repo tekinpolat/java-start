@@ -1,0 +1,7 @@
+# döngü 
+# condition = şart
+# değişken
+
+java/c# --> oop
+python/php/javascript/c++  --> function/oop
+c --> function

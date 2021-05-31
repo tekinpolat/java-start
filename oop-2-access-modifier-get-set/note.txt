@@ -1,0 +1,8 @@
+#erişim belirteçleri(access modifier)
+-- ✔ public   
+-- ✔ private 
+-- protected
+-- default 
+
+
+#get/set
